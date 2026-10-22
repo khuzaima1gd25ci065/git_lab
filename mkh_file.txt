@@ -2,4 +2,8 @@ my first git lab
 Work in progress
 Work in progress
 Work in progress
+<<<<<<< HEAD
 remote added
+=======
+Work in progress
+>>>>>>> aea7034 (mkh_file.txt added)
